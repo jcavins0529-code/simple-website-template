@@ -41,6 +41,7 @@ Web technology changes rapidly, and it easy to get lost in the hype. Learning th
 - Google Sites (free)
 - Squarespace
 - Wix
+im stuck 
 
 
 
